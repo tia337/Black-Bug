@@ -21,6 +21,7 @@
 * [Product presentation](http://bit.ly/2lVrU3Q)
 * [Documentation](http://bit.ly/2kQ0Qha)
 * [Backlog](http://bit.ly/2nkHjvf)
+* [Product Promo](https://vimeo.com/217564097)
 ***
 ### First Sprint:
  1. [Meeting results](https://docs.google.com/document/d/1kmjobeilXp_ZA3lZIO_0rtM-2dQugZglF6AtuJD-hkA/edit)
